@@ -14,4 +14,10 @@
 
 ## Project screenshots
 
-<img src="https://github.com/Atchuross/HorlogeSymfony/blob/master/Capture.PNG?raw=true" alt="Awesome README Templates" />
+<img src="https://github.com/Atchuross/JQuery_Project/blob/main/Snake1.png" alt="Awesome README Templates" />
+
+<img src="https://github.com/Atchuross/JQuery_Project/blob/main/Snake2.png" alt="Awesome README Templates" />
+
+<img src="https://github.com/Atchuross/JQuery_Project/blob/main/Snake3.png" alt="Awesome README Templates" />
+
+
