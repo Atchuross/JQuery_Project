@@ -12,6 +12,10 @@
 <p align="center"><i>Please visit my <a href="https://clement-clauzel.fr">Website</a></i></p>
 <br>
 
+
+## Project online
+Link : https://clement-clauzel.fr/SnakeGame
+
 ## Project screenshots
 
 <img src="https://github.com/Atchuross/JQuery_Project/blob/main/Snake1.png" alt="Awesome README Templates" />
